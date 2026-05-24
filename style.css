@@ -276,7 +276,7 @@ body::-webkit-scrollbar {
 }
 
 .info-pfp-img {
-  background-image: url("assets/imgs/pfp3.png");
+  background-image: url("https://images.steamusercontent.com/ugc/1845916597516643460/98535B6E55CD6142939FB36E604B8BA3D8AE7162/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
