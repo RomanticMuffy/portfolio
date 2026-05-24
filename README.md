@@ -1,5 +1,5 @@
 <div align="left">
-  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/176c1f10-eab1-48dc-b9c4-845abfab7273" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/3bdb0be2-19b1-4ce5-92f9-117d4d303282" />
   </br>
 </div>
 
@@ -74,17 +74,7 @@ Low-fidelity layout explorations focused on content hierarchy, navigation flow, 
 
 High-fidelity mockups applying the full visual system: color palette, typography, glassmorphism layers, glow effects, and motion intent.
 
-<img width="1440" height="1882" alt="image" src="https://github.com/user-attachments/assets/b696d8d1-a42a-452e-ad27-67738bf8497d" />
-
-<br/>
-
-<img width="1832" height="1274" alt="image" src="https://github.com/user-attachments/assets/e7aa6efb-734e-4f49-b479-cf28074433a9" />
-
----
-
-### Site Screenshots
-
-<img width="100%" alt="chrome-capture-2026-04-26 (1)" src="https://github.com/user-attachments/assets/009a76eb-5bc3-4135-9435-16a2c5770bd9" />
+<img width="1913" height="977" alt="image" src="https://github.com/user-attachments/assets/05e270e1-3341-4286-81af-f2b6715f7e2f" />
 
 ---
 
